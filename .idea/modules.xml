@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_Binary_Search/10_Binary_Search.iml" filepath="$PROJECT_DIR$/10_Binary_Search/10_Binary_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Sorting/11_Sorting.iml" filepath="$PROJECT_DIR$/11_Sorting/11_Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_Strings/12_Strings.iml" filepath="$PROJECT_DIR$/12_Strings/12_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_BitwiseAndMath/15_BitwiseAndMath.iml" filepath="$PROJECT_DIR$/15_BitwiseAndMath/15_BitwiseAndMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_Maths/16_Maths.iml" filepath="$PROJECT_DIR$/16_Maths/16_Maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.1/2.1.iml" filepath="$PROJECT_DIR$/2.1/2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_Arrays/8_Arrays.iml" filepath="$PROJECT_DIR$/8_Arrays/8_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_Linear_Search/9_Linear_Search.iml" filepath="$PROJECT_DIR$/9_Linear_Search/9_Linear_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coursera/Coursera.iml" filepath="$PROJECT_DIR$/Coursera/Coursera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Domain/Domain.iml" filepath="$PROJECT_DIR$/Domain/Domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Patterns/EXP3.2/EXP3.2.iml" filepath="$PROJECT_DIR$/13_Patterns/EXP3.2/EXP3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXP3.3/EXP3.3.iml" filepath="$PROJECT_DIR$/EXP3.3/EXP3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Idea/First_Idea.iml" filepath="$PROJECT_DIR$/First_Idea/First_Idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mini Project/Mini Project.iml" filepath="$PROJECT_DIR$/Mini Project/Mini Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP2/OOP2.iml" filepath="$PROJECT_DIR$/OOP2/OOP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revision/Revision.iml" filepath="$PROJECT_DIR$/Revision/Revision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revision2/Revision2.iml" filepath="$PROJECT_DIR$/Revision2/Revision2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_Conditionals_Loops/Switch/Switch.iml" filepath="$PROJECT_DIR$/6_Conditionals_Loops/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_Conditionals_Loops/code/code.iml" filepath="$PROJECT_DIR$/6_Conditionals_Loops/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Patterns/code/code1.iml" filepath="$PROJECT_DIR$/13_Patterns/code/code1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/code2/code2.iml" filepath="$PROJECT_DIR$/OOP/code2/code2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_Recursion/code/code3.iml" filepath="$PROJECT_DIR$/14_Recursion/code/code3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/code/code4.iml" filepath="$PROJECT_DIR$/OOP/code/code4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_Recursion/easy/easy.iml" filepath="$PROJECT_DIR$/14_Recursion/easy/easy.iml" />
+    </modules>
+  </component>
+</project>

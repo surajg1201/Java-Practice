@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="document">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Coursera/code/src/document/document.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="spelling">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Coursera/code/src/spelling/mod4part2.zip(Autocomplete).zip!/" />
+      <root url="jar://$PROJECT_DIR$/Coursera/code/src/spelling/mod4part1.zip(Spell Checking).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
